@@ -1,0 +1,14 @@
+.searc_button {
+  border: none;
+  background: rgb(243, 216, 49);
+  color: rgb(149, 67, 8);
+  border-radius: 6px;
+  font-family: revert-layer;
+  font-size: 20px;
+  cursor: pointer;
+  transition: "background-color 0.3s";
+}
+
+.searc_button:hover {
+  background: rgb(214, 200, 111);
+}
